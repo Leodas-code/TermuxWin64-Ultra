@@ -20,7 +20,7 @@
 Paste this command into your **Termux** terminal to begin the automated setup:
 
 ```bash
-curl -sL https://raw.githubusercontent.com/termuxwin64/ultra/main/install.sh | bash
+curl -sL https://raw.githubusercontent.com/Leodas-code/TermuxWin64-Ultra/refs/heads/main/install.sh | bash
 ```
 
 *Note: Requires Termux-X11 (Nightly) and storage permissions.*
